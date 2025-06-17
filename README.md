@@ -15,5 +15,6 @@ A fully functional, responsive **Calculator App** built using **HTML**, **CSS**,
 ⚙️ JavaScript<br>
 💠 Bootstrap 5 (for layout and styling)<br>
 
- 🤝 Contributions<br
-Contributions and issues are welcome!
+ 🤝 Contributions<br>
+ 
+   Contributions and issues are welcome!
